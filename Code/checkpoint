@@ -1,0 +1,4 @@
+model_checkpoint_path: "char-rnn_3000"
+all_model_checkpoint_paths: "char-rnn_1000"
+all_model_checkpoint_paths: "char-rnn_2000"
+all_model_checkpoint_paths: "char-rnn_3000"
